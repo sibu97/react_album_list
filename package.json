@@ -1,9 +1,11 @@
 {
+  "homepage": "http://sibu97.github.io/react_album_list",
   "name": "react_album_list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
+    "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-bootstrap": "^2.5.0",
     "react-dom": "^18.2.0",
